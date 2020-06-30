@@ -13,14 +13,4 @@ class Solution:
             else:
                 result += sorted_costs[i][1]
         return result
-<<<<<<< HEAD
-    
-
-        
-    
-        
-=======
-    
-
-                
->>>>>>> Day 4
+=
